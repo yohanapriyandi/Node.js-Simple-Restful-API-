@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://nodejs.org"><img src="https://nodejs.org/static/images/logo.svg" alt="Javascript Runtime"></a>
-<a href="https://www.mongodb.com/"><img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB"></a>
-<a href="https://expressjs.com/"><img src="" alt="Expressjs"></a>
+<a href="https://nodejs.org">Nodejs</a>
+<a href="https://www.mongodb.com/">MongoDB</a>
+<a href="https://expressjs.com/">Expressjs</a>
 </p>
 
 ## How to use it?
